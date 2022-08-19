@@ -48,4 +48,7 @@ Users should be able to:
 
 ## Acknowledgments
 
+The video [HTML / CSS Tutorial – Create an Order Summary Component](https://youtu.be/SR5GxoFhIAU) was a great help.
+
+
 
